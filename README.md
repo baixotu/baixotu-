@@ -12,3 +12,5 @@ Editor e divulgador de sites com interesse em reflexões filosóficas e tecnoló
 ## 🌐 Contato
 - Linktree: [linktr.ee/baixotu](https://linktr.ee/baixotu)
 - X (Twitter): [@baixotu](https://twitter.com/baixotu)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=baixotu&show_icons=true&theme=dark)
